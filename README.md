@@ -6,7 +6,7 @@ These materials are intended for classroom use.
 
 _Requirements: Installation of plotrix and extrafont packages_
 
-A CSV file containing the aggregate counts of each bacterial genus, with each column indicating a different sample, is required. Typically, these are found on [basespace](http://basespace.illumina.com) There are usually over 600 different genuses found across samples-- However, since these counts aren't always significant, looking at the top ten is usually enough. 
+A CSV file containing the aggregate counts of each bacterial genus, with each column indicating a different sample, is required. Typically, these are found on [basespace](http://basespace.illumina.com). There are usually over 600 different genuses found across samples-- However, since these counts aren't always significant, looking at the top ten is usually enough. 
 
 A text file should also be written in order to indicate what samples are a "pair" with the other, for the venn diagram program. For the module these reports are used for, students typically take two samples- one of their hard pallete, one of their retroauricular crease.
 
