@@ -4,6 +4,10 @@ _These programs were written for the [BioSeq](http://ase.tufts.edu/chemistry/wal
 R scripts to generate a class size set of pie charts and venn diagrams.
 These materials are intended for classroom use.
 
+<img height = "500" width = "550" src = "https://github.com/hannahvoelker/hannahvoelker.github.io/blob/master/images/piechart.png?raw=true">
+
+<img height = "500" width = "550" src= "https://github.com/hannahvoelker/hannahvoelker.github.io/blob/master/images/venndiagram.png?raw=true">
+
 _Requirements: Installation of plotrix and extrafont packages_
 
 A CSV file containing the aggregate counts of each bacterial genus, with each column indicating a different sample, is required. Typically, these are found on [basespace](http://basespace.illumina.com). There are usually over 600 different genuses found across samples-- However, since these counts aren't always significant, looking at the top ten is usually enough. 
