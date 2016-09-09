@@ -4,9 +4,7 @@ _These programs were written for the [BioSeq](http://ase.tufts.edu/chemistry/wal
 R scripts to generate a class size set of pie charts and venn diagrams.
 These materials are intended for classroom use.
 
-<img height = "500" width = "400" src = "https://github.com/hannahvoelker/hannahvoelker.github.io/blob/master/images/piechart.png?raw=true">
-
-<img height = "500" width = "400" src= "https://github.com/hannahvoelker/hannahvoelker.github.io/blob/master/images/venndiagram.png?raw=true">
+<img height = "110" width = "80" src = "https://github.com/hannahvoelker/hannahvoelker.github.io/blob/master/images/piechart.png?raw=true"> <img height = "110" width = "80" src= "https://github.com/hannahvoelker/hannahvoelker.github.io/blob/master/images/venndiagram.png?raw=true">
 
 _Requirements: Installation of plotrix and extrafont packages_
 
